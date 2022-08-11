@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vcart/static/css/main.3b0df483.chunk.css",
+    "main.js": "/vcart/static/js/main.c0cd74b2.chunk.js",
+    "main.js.map": "/vcart/static/js/main.c0cd74b2.chunk.js.map",
+    "runtime-main.js": "/vcart/static/js/runtime-main.d6882e8c.js",
+    "runtime-main.js.map": "/vcart/static/js/runtime-main.d6882e8c.js.map",
+    "static/js/2.7894796d.chunk.js": "/vcart/static/js/2.7894796d.chunk.js",
+    "static/js/2.7894796d.chunk.js.map": "/vcart/static/js/2.7894796d.chunk.js.map",
+    "index.html": "/vcart/index.html",
+    "static/css/main.3b0df483.chunk.css.map": "/vcart/static/css/main.3b0df483.chunk.css.map",
+    "static/js/2.7894796d.chunk.js.LICENSE.txt": "/vcart/static/js/2.7894796d.chunk.js.LICENSE.txt",
+    "static/media/Carousel-image.7a6c1be7.png": "/vcart/static/media/Carousel-image.7a6c1be7.png",
+    "static/media/Carousel-one.e381db1c.jpg": "/vcart/static/media/Carousel-one.e381db1c.jpg",
+    "static/media/boyone.a2b72261.png": "/vcart/static/media/boyone.a2b72261.png",
+    "static/media/boytwo.2c40b9c7.png": "/vcart/static/media/boytwo.2c40b9c7.png",
+    "static/media/facebook.163441ce.svg": "/vcart/static/media/facebook.163441ce.svg",
+    "static/media/instagram.b16604a2.svg": "/vcart/static/media/instagram.b16604a2.svg",
+    "static/media/mennew.aafb2d9f.png": "/vcart/static/media/mennew.aafb2d9f.png",
+    "static/media/shopping_three.0206f92e.png": "/vcart/static/media/shopping_three.0206f92e.png",
+    "static/media/twitter.eb90c6c6.svg": "/vcart/static/media/twitter.eb90c6c6.svg",
+    "static/media/women.a8a176be.png": "/vcart/static/media/women.a8a176be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6882e8c.js",
+    "static/js/2.7894796d.chunk.js",
+    "static/css/main.3b0df483.chunk.css",
+    "static/js/main.c0cd74b2.chunk.js"
+  ]
+}
